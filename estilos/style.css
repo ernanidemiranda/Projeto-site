@@ -19,3 +19,9 @@ main{
     padding: 10px;
     
 }
+
+img.lado{ /*toda imagem da classe lado(criado no doc html) vai seguir as config do seletor*/
+
+        float: right;
+
+}
